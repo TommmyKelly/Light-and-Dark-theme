@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 :root {
-  --primiary: blue;
+  --primary: blue;
   --bg-color: #f7ede5;
   --button-color: white;
   --test: red;
@@ -9,7 +9,7 @@
 }
 
 [data-theme="dark"] {
-  --primiary: #bb85fc;
+  --primary: #bb85fc;
   --bg-color: rgb(61, 60, 60);
   --button-color: white;
   --test: yellow;
@@ -31,12 +31,12 @@ p {
 
 body {
   background-color: var(--bg-color);
-  color: var(--primiary);
+  color: var(--primary);
   font-family: "Poppins", sans-serif;
 }
 
 button {
-  background-color: var(--primiary);
+  background-color: var(--primary);
   color: var(--button-color);
   border: none;
   padding: 6px 10px;
@@ -58,7 +58,7 @@ button:focus {
   margin-top: 20px;
   width: 20%;
   min-width: 120px;
-  border: 2px solid var(--primiary);
+  border: 2px solid var(--primary);
   margin: 20px auto;
 }
 
@@ -66,7 +66,7 @@ button:focus {
   width: 100%;
   border: none;
 
-  color: var(--primiary);
+  color: var(--primary);
   background-color: var(--item-bg-color);
 }
 .input__container input:focus {
@@ -74,5 +74,5 @@ button:focus {
 }
 
 input::-webkit-input-placeholder {
-  color: var(--primiary);
+  color: var(--primary);
 }
