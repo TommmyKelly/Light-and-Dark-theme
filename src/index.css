@@ -53,7 +53,7 @@ button:focus {
 }
 
 .input__container {
-  border-radius: 25px;
+  border-radius: 25px !important;
   padding: 8px 12px;
   margin-top: 20px;
   width: 20%;
