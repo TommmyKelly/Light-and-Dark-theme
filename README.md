@@ -6,11 +6,11 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Install Dependencies
 
-'''
+```
 npm install
 or
 yarn install
-'''
+```
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
