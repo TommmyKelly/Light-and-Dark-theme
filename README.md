@@ -1,5 +1,5 @@
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=X_uxBIUlQqI
-" target="_blank"><img src="http://img.youtube.com/vi/X_uxBIUlQqI/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jJeNbjHDBZE
+" target="_blank"><img src="http://img.youtube.com/vi/jJeNbjHDBZE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Click the above image to view the YouTube tutorial
